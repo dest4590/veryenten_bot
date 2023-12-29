@@ -1,0 +1,4 @@
+database.db
+resources/
+temp/
+__pycache__/
